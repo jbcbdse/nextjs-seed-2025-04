@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## What is this
+
+This is the default layout from running create-next-app with default options (typescript, eslint, etc) with a few modifications:
+
+* more opinionated ESLint rules + prettier
+* a couple sample API routes just to demonstrate API routes
+
 ## Getting Started
 
 First, run the development server:
